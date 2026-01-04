@@ -2,6 +2,7 @@
 
 !*/
 
+!.cargo/config.toml
 !.devcontainer/*
 !src/
 !*.rs
