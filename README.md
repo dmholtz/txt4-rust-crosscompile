@@ -36,3 +36,8 @@ Run it on the device:
 ```bash
 ssh <TXT4-HOSTNAME> ./rgb
 ```
+
+## Additional Resources
+
+- [Cross-compilation with Rust](https://rust-lang.github.io/rustup/cross-compilation.html)
+- [Target armv7-unknown-linux-gnueabi](https://doc.rust-lang.org/nightly/rustc/platform-support/armv7-unknown-linux-gnueabi.html)
